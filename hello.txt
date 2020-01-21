@@ -2,3 +2,9 @@ Hello world!
 
 Trestan Janos Garcia
 BSCS
+<<<<<<< HEAD
+=======
+
+CMSC 100 GIT
+Present only in a new branch
+>>>>>>> new-feature
