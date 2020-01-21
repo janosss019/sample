@@ -3,3 +3,5 @@ Hello world!
 Trestan Janos Garcia
 BSCS
 
+CMSC 100 GIT
+Present only in a new branch
